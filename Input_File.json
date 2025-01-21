@@ -1,0 +1,33 @@
+{
+    "offer_type": "for sale",
+    "construction_type": "all",
+    "country": "Bulgaria",
+    "location": "Sofia",
+    "region_municipality": [
+        "Central",
+        "East Sofia"
+    ],
+    "district": [
+        "7 - 11 km",
+        "Abdovitsa",
+        "American gollege",
+        "Banishora"
+    ],
+    "street": [
+        "11 August Str."
+    ],
+    "property_type": [
+        "1 bedroom apartment",
+        "3 bedroom apartment"
+    ],
+    "constructions": [
+        "Bricks",
+        "Panel"
+    ],
+    "extras": [],
+    "price_from /  price_to": [
+    ],
+    "currency": "EUR",
+    "PRICE/SQ.M.1:": [
+    ]
+}
